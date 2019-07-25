@@ -1,0 +1,38 @@
+.adresse{
+ text-align: left;
+ padding-left: 10%;
+
+}
+.logo{
+width: 210px;
+float: left;
+
+}
+p{
+    text-align: left;
+}
+.joindre{
+   text-align: right;
+   padding-top: 3%;
+   
+   
+}
+.client{
+    padding-left: 15%;
+    padding-top: 1%
+}
+.voice{
+    text-align: right;
+
+}
+.text-muted{
+text-align: right;
+
+}
+.display-4{
+    color: bisque;
+    font-size: 70px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: right;
+}
+

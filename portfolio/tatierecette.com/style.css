@@ -1,0 +1,105 @@
+body{ color: gray ;
+    background-color:wheat;
+    font-size: 18px ;
+width: 980px;
+margin: auto auto ;
+
+}
+main{
+    background-color: wheat;
+}
+h1{
+     font-size: 90px ;
+     text-align: center ;
+     color: brown;
+     text-decoration: underline ;
+     text-transform: uppercase ;
+}
+h2{
+ font-size: 40px ; 
+ text-align: left ;
+ text-decoration: underline ;
+ text-transform: inherit ;
+ color: blueviolet ;
+ }
+
+ p{
+    font-size: 18px ;
+    color: #000 ;}
+
+
+    .logo img{
+    width: 200px;
+    height: 200px;}
+
+
+.search{
+    width: 780px ;
+   }
+.compte{
+ width: 80px ;
+ height: 80px;}
+
+header{
+    width: 980px ;
+    height: 200px;
+    display: flex ;}
+    
+    nav>ul {display: flex;
+    width: 980px ;
+
+    }
+nav>ul>li{
+width: 196px;
+
+
+}
+li{display: inline;}
+
+.menu li {
+    position: relative;
+    float: left;
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.art1{
+display: flex ;
+margin-bottom: 50px ;
+
+}
+
+article{display:flex;
+        margin-bottom:80px }
+article:last-child{
+flex-direction: column;
+margin-bottom: 20px ;
+
+}
+article:last-child ul{
+  position: absolute ;
+  margin-left: 200px ;
+    
+}
+footer{
+    width: 980px ;
+    color: aqua ;
+    display: flex ;
+    flex-wrap: wrap ;
+    }
+footer>nav{
+width:480px ;
+height: 150px ;
+}
+footer>address{
+    width: 490 px;
+    height: 150px ;
+}
+
+
+
+
+
+
+
+
