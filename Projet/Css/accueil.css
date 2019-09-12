@@ -1,0 +1,44 @@
+.logo{
+    width: 280px;
+    height: 150px;
+    margin-left: -61px;
+
+}
+
+.col-6{
+    margin-top: 150px;
+}
+
+.avat{
+    width: 70px;
+    height: 66px;
+    margin-top: 60px;
+
+}
+
+.col-12{
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.list{
+    list-style-type:none;
+    margin-left: -35px;
+    margin-top: 71px;
+}
+.card-title, .card-text{
+    text-align: center;
+    color: black;
+
+}
+.card-img{
+    height: 350px;
+}
+
+.plats{
+    width: 300px;
+    height: 210px;
+}
+body{
+    background-image: url(/Projet/Image/Fond_fractale_jaune.jpg);
+}

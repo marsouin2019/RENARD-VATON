@@ -1,0 +1,143 @@
+.play{
+width: 50px;
+height: 50px;
+}
+.link{
+color: black;
+}
+.connexion{
+    color: white;
+    margin-top: 0px;
+}
+.card-img-center{
+    height: 550px;
+}
+.mb-3{
+    text-align: center;
+    color: white;
+
+}
+
+.titre{
+    text-align: center ;
+}
+.titre1{
+    text-align: center ;
+    color: blue;
+}
+ul,li{
+    text-align: center;
+    list-style-type:none;
+    display: flex;
+    
+}
+
+.day{
+    height: 300px;
+    width:470px;
+    margin-left: -105px;
+}
+.blood{
+    height: 170px;
+    width: 270px;
+
+}
+.crash{
+    height: 170px;
+    width: 270px;
+}
+.wolf{
+    height: 170px;
+    width: 270px;  
+}
+.mortal{
+    height: 170px;
+    width: 270px;
+
+}
+.wi{
+    height: 170px;
+    width: 270px;
+    position: center;
+    margin: 35px;
+}
+.fifa{
+    height: 170px;
+    width: 270px;
+}
+.apex{
+    height: 170px;
+    width: 270px;
+}
+.blackops{
+    height: 170px;
+    width: 270px;
+}
+.br{
+    height: 170px;
+    width: 270px;
+}
+.logo1{
+    height: 120px;
+    width: 170px;
+    margin-left: 475px;
+}
+.wesh{
+    height: 420px;
+   
+
+}
+.info{
+    text-align: center;
+    margin-top: 50px;
+}
+.multijeux{
+    height: 250px;
+    width: 650px;
+    margin-left: 390px;
+    margin-top: 60px;
+}
+.aui{
+    margin-top: 60px;
+    margin-left: 90px;
+}
+.tarp{
+   margin-top: 100px;
+}
+.psnow{
+    height: 700px;
+    width: 1910px;
+}
+.textps{
+    text-align: center;
+    color:#FBFBFB;
+}
+.eps{
+    width: 500px;
+    height: 285px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.help{
+    width: 500px;
+    height: 285px;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.lol{
+    margin-top: 80px;
+}
+.foot{
+    background-color: #d1d4de;
+    text-align: center;
+    margin-top: 25px;
+}
+.icone{
+    width: 50px;
+height: 50px;
+margin-top: 50px;
+
+}
+.propos{
+    background-color: #33c4ff;
+}

@@ -1,0 +1,2 @@
+<?php 'bonjour';?>
+<?php 'bonjour' ;?>
