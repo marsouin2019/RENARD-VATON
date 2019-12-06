@@ -29,7 +29,7 @@ class Personne
        //initialisation de la connection internet
        $this->connectDB = $myconnexion;
 
-       //print_r($this->connectDB);
+       print_r($this->connectDB);
        
 
     }
