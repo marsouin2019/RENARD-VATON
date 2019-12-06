@@ -1,0 +1,1 @@
+INSERT INTO logins (email, idpersonne) VALUES ('martine.ambrosio@gmail.com',2);

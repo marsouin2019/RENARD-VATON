@@ -1,0 +1,1 @@
+INSERT INTO personnes (nom) VALUES ('AMBROSIO');

@@ -1,0 +1,48 @@
+.bloc{
+    text-align: center;
+    padding-top: 350px;
+
+}
+.hey{
+    width: 450px;
+    height: 60px;
+    border-radius: 5px;
+}
+.look{
+    padding-top: 20px;
+}
+.log{
+    width: 150px;
+    height: 160px;
+    padding-top: 10px;
+    padding-left: 0px;
+}
+.formu{
+    display: inline;
+    position: float;
+    text-align: left;
+    
+
+}
+.but{
+    padding-top: 15px;
+    text-align: center;
+}
+.wesh{
+    margin-left: -100px;
+   
+}
+.facegoog{
+    padding-top: 15px;
+}
+.petec{
+margin-left: 0px;
+
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+.name{
+    width: 30px;
+    height: 30px;
+}
